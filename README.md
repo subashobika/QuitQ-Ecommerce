@@ -1,1 +1,1 @@
-QuitQ-Ecommerce – A web-based e-commerce application for seamless online shopping built using modern web technologies.
+QuitQ is a full-stack e-commerce web application developed using React.js for the frontend, Spring Boot for the backend, and MySQL for the database. It supports user registration and login with secure authentication, product browsing, cart management, order placement, and payment processing. The system also includes separate dashboards for users, sellers, and admins to manage products, orders, and inventory efficiently.
